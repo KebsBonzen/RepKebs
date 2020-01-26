@@ -46,7 +46,7 @@ Maintainer: KebsBonzen
 Author: KebsBonzen
 Section: Themes
 Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: debs/com.kebsbonzen.liacadark++_1.0_iphoneos-arm.deb
+Filename: debs/com.kebsbonzen.liacadark++_1.0.1_iphoneos-arm.deb
 Size: 82782
 MD5sum: 01535aed8e6be51d2d24d14061c1e70e
 SHA1: 2ea935a11aecf7cee1a68d0a6fc0697fc021c5c6
