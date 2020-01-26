@@ -29,12 +29,16 @@ SHA256: 4066915023e82670533f32f9a99fb1679e076d8ed51899946b9f244226466afb
 
 Package: com.kebsbonzen.liacadark++
 Name: Liaca Dark++
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Südtiroler extension-pack for Liaca Dark
  The must have extension-pack for the real Südtiroler
  
  # Changelog
+  ## [1.0.1]
+ - several background fixes
+ - 1 new Icon
+ 
  ## [1.0]
  - initial release
  - 10 Icons
@@ -43,7 +47,7 @@ Author: KebsBonzen
 Section: Themes
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: debs/com.kebsbonzen.liacadark++_1.0_iphoneos-arm.deb
-Size: 72872
-MD5sum: 83b179b52ec9df07e32b12c2ab2b2897
-SHA1: 2a4ee52c8d77efd4c0b6b88cf803dedc0050f8f9
-SHA256: c9446f0727c5a49809106dc9d7a659b54511154937d20282d061c021c3fc396f
+Size: 82782
+MD5sum: 01535aed8e6be51d2d24d14061c1e70e
+SHA1: 2ea935a11aecf7cee1a68d0a6fc0697fc021c5c6
+SHA256: 3a4dc86cece70bdb8660c799c0d657a674392c16c5da0758c438ea525e5e85d3
