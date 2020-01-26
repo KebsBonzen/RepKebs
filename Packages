@@ -37,7 +37,7 @@ Description: Südtiroler extension-pack for Liaca Dark
  # Changelog
   ## [1.0.1]
  - several background fixes
- - 1 new Icon
+ - 2 new Icon
  
  ## [1.0]
  - initial release
@@ -47,7 +47,7 @@ Author: KebsBonzen
 Section: Themes
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: debs/com.kebsbonzen.liacadark++_1.0.1_iphoneos-arm.deb
-Size: 82782
-MD5sum: 01535aed8e6be51d2d24d14061c1e70e
-SHA1: 2ea935a11aecf7cee1a68d0a6fc0697fc021c5c6
-SHA256: 3a4dc86cece70bdb8660c799c0d657a674392c16c5da0758c438ea525e5e85d3
+Size: 92850
+MD5sum: e7012aee232ff0ae7db6bd279402fb14
+SHA1: e3e5e987f7779fc7aafd1f0e621621f56648cd5e
+SHA256: e785f6463c648bdd52d46d0e8695698c566d46f2a51c0de69429ef779257f396
