@@ -22,7 +22,10 @@ Author: KebsBonzen
 Section: Themes
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: debs/com.kebsbonzen.violadark++_1.2_iphoneos-arm
-
+Size: 29242
+MD5sum: 76cfd83fb41d69b26bd04e9806e2427d
+SHA1: 65e01f450d532e162f527578781fd12aabaa2c72
+SHA256: 4066915023e82670533f32f9a99fb1679e076d8ed51899946b9f244226466afb
 
 Package: com.kebsbonzen.liacadark++
 Name: Liaca Dark++
